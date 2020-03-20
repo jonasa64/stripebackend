@@ -1,0 +1,20 @@
+{
+  "name": "stripebackend",
+  "version": "1.0.0",
+  "description": "backend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C stripe backend for gui project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Jonas Andersen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "stripe": "^8.32.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
